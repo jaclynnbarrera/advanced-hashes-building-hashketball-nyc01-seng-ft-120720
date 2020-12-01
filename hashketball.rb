@@ -2,9 +2,9 @@
 def game_hash
   hashketball = {
     :home => {
-      :team_name => ,
-      :colors => ,
-      :players => 
+      :team_name => "" ,
+      :colors => ["array", "of", "strings"] ,
+      :players => {[]}
     },
     :away => {
       :team_name => ,
