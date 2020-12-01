@@ -111,7 +111,7 @@ def game_hash
         },
         {
         :player_name => "Kemba Walker",
-        :number => 8,
+        :number => 33,
         :shoe => 15,
         :points => 33,
         :rebounds => 3,
