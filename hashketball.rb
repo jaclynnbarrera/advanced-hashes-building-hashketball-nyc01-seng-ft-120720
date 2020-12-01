@@ -9,7 +9,8 @@ def game_hash
     :away => {
       :team_name => "" ,
       :colors => ["array", "of", "strings"] ,
-      :players => [{
+      :players => [
+        {
         :player_name => "name",
         :number => 7,
         :shoe => "nike",
@@ -18,8 +19,8 @@ def game_hash
         :assists => 20,
         :steals => 4,
         :blocks => 14,
-        :slam_dunks => 100},{
-          
+        :slam_dunks => 100},
+        {
         :player_name => "name",
         :number => 7,
         :shoe => "nike",
