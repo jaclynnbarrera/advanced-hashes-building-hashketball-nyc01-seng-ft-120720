@@ -18,7 +18,7 @@ def game_hash
         },
         {
         :player_name => "Reggie Evans",
-        :number => 0,
+        :number => 30,
         :shoe => 16,
         :points => 22,
         :rebounds => 12,
