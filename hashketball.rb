@@ -96,7 +96,7 @@ def game_hash
         :assists => 2,
         :steals => 1,
         :blocks => 1,
-        :slam_dunks => 5  
+        :slam_dunks => 0  
         },
         {
         :player_name => "DeSagna Diop",
