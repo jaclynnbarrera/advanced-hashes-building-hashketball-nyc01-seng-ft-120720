@@ -8,7 +8,7 @@ def game_hash
         {
         :player_name => "Alan Anderson",
         :number => 0,
-        :shoe => "nike",
+        :shoe => 16,
         :points => 7,
         :rebounds => 17,
         :assists => 20,
