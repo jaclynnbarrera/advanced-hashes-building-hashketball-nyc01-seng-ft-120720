@@ -3,7 +3,7 @@ def game_hash
   hashketball = {
     :home => {
       :team_name => "Brooklyn Nets" ,
-      :colors => ["array", "of", "strings"] ,
+      :colors => ["Black", "White"] ,
       :players => [{},{},{}]
     },
     :away => {
