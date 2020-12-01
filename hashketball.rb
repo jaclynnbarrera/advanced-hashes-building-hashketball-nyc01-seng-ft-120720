@@ -59,8 +59,8 @@ def game_hash
         :steals => 4,
         :blocks => 11,
         :slam_dunks => 1    
-        }] #closes out last player hash
-    }, #closes out outer home team hash
+        }]
+    }, 
     :away => {
       :team_name => "Charlotte Hornets" ,
       :colors => ["Turquoise", "Purple"] ,
