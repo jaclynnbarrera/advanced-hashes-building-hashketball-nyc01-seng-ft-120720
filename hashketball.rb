@@ -110,7 +110,7 @@ def game_hash
         :slam_dunks => 0    
         },
         {
-        :player_name => "Ben Gordon",
+        :player_name => "Kemba Walker",
         :number => 8,
         :shoe => 15,
         :points => 33,
