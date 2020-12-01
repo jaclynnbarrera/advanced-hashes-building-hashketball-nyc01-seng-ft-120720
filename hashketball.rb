@@ -31,7 +31,7 @@ def game_hash
         :player_name => "Brook Lopez",
         :number => 11,
         :shoe => 17,
-        :points => 12,
+        :points => 17,
         :rebounds => 12,
         :assists => 12,
         :steals => 12,
