@@ -63,7 +63,7 @@ def game_hash
     }, #closes out outer home team hash
     :away => {
       :team_name => "Charlotte Hornets" ,
-      :colors => ["array", "of", "strings"] ,
+      :colors => ["Turquoise", "of", "strings"] ,
       :players => [
         {
         :player_name => "name",
