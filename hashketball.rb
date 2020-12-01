@@ -100,7 +100,7 @@ def game_hash
         },
         {
         :player_name => "Ben Gordon",
-        :number => 2,
+        :number => 8,
         :shoe => 14,
         :points => 24,
         :rebounds => 12,
