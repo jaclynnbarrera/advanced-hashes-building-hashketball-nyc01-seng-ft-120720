@@ -68,7 +68,7 @@ def game_hash
         {
         :player_name => "Jeff Adrien",
         :number => 4,
-        :shoe => "nike",
+        :shoe => 18,
         :points => 7,
         :rebounds => 17,
         :assists => 20,
